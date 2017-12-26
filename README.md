@@ -11,12 +11,15 @@ This code teach us how we can develop our own custom keyboard.
  ![1](https://github.com/AnkitDroidGit/Android-Custom-Keyboard/blob/master/art/4.png)
 
 
+
 ## let's connect to learn together
+
 - [Twitter](https://twitter.com/KumarAnkitRKE)
 - [Github](https://github.com/AnkitDroidGit)
 - [LinkedIn](https://www.linkedin.com/in/kumarankitkumar/)
 - [Facebook](https://www.facebook.com/freeankit)
 - [Slack](https://ankitdroid.slack.com)
+- [Stackoverflow](https://stackoverflow.com/users/3282461/android)
 
 ### License
 
